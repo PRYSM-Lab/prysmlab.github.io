@@ -1,0 +1,27 @@
+"Comput. Chem. Eng.":
+  url: https://www.sciencedirect.com/journal/computers-and-chemical-engineering
+  color: "#fa1e4e"
+
+"Adv. Appl. En.":
+  url: https://www.sciencedirect.com/journal/advances-in-applied-energy
+  color: "#0cf514"
+
+"AIChE J.":
+  url: https://aiche.onlinelibrary.wiley.com/journal/15475905
+  color: "#f74e48"
+
+"IECR":
+  url: https://pubs.acs.org/journal/iecred
+  color: "#ec9a9a"
+
+"ChERD":
+  url: https://www.sciencedirect.com/journal/chemical-engineering-research-and-design
+  color: "#ff9966"
+
+"Sust. En. Fuels":
+  url: https://pubs.rsc.org/en/journals/journalissues/se#!recentarticles&adv
+  color: "#2ade30"
+
+"Appl. En.":
+  url: https://www.sciencedirect.com/journal/applied-energy
+  color: "#aac3f9"

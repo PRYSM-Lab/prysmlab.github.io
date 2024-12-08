@@ -1,0 +1,287 @@
+{
+  "basics": {
+    "name": "Vassilis M Charitopoulos, FHEA, PhD",
+    "label": "Lecturer in Process Systems Engineering",
+    "image": "",
+    "email": "v.charitopoulos@ucl.ac.uk",
+    "url": "UCL profile<a href='https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos'></a>",
+    "summary": "Principal Investigator of the PRYSM Lab @ UCL.",
+    "location": {
+      "address": "UCL Roberts Building",
+      "postalCode": "WC1E 7JE",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "England"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Department of Chemical Engineering, UCL",
+      "position": "Lecturer (Assist. Prof.) in Process Systems Engineering",
+      "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
+      "startDate": "09/2019",
+      "endDate": "-",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Cambridge Judge Business School, University of Cambridge",
+      "position": "Research Associate in Energy Decarbonisation",
+      "url": "https://profiles.ucl.ac.uk/54523-vassilis-charitopoulos",
+      "startDate": "09/2018",
+      "endDate": "09/2019",
+      "summary": "Host: Energy Policy Research Group",
+      "highlights": ["Heat decarbonisation pathways to net zero"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University College London, UK",
+      "location": "London, UK",
+      "url": "https://www.ucl.ac.uk/chemical-engineering",
+      "area": "Thesis advisor: Prof Vivek Dua",
+      "studyType": "PhD in Chemical Engineering",
+      "startDate": "2015-09-01",
+      "endDate": "2018-09-01",
+      "score": "",
+      "courses": ["Multiparametric programming & Integration of control with operations"]
+    },
+    {
+      "institution": "National Technical University of Athens, Greece",
+      "location": "Athens, Greece",
+      "url": "https://www.chemeng.ntua.gr/_en",
+      "area": "School of Chemical Engineering",
+      "studyType": "5-year integrated Masters in Chemical Engineering",
+      "startDate": "2010-09-01",
+      "endDate": "2015-09-01",
+      "score": "8.3/10.0",
+      "courses": ["Minor: Process systems optimization"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "IChemE Best Young Researcher Award (Hon.Ment.)",
+      "date": "2022",
+      "awarder": "Institute of Chemical Engineers",
+      "url": " ",
+      "summary": " "
+    }, 
+    {
+      "title": "Exceptional PhD Thesis Award in Computer Aided Process Engineering  (Hon.Ment.)",
+      "date": "2021",
+      "awarder": "European Federation of Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Springer Award for outstanding PhD thesis",
+      "date": "2019",
+      "awarder": "Springer International",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Newton award for Best PhD thesis",
+      "date": "2019",
+      "awarder": "UCL",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "DAI Best Teaching Demonstrator Award",
+      "date": "2018",
+      "awarder": "UCL Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Rookie Prize for best MPhil Thesis",
+      "date": "2017",
+      "awarder": "UCL Chemical Engineering",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Leadership Award in teaching",
+      "date": "2017",
+      "awarder": "UCL Faculty of Engineering Sciences",
+      "url": "",
+      "summary": " "
+    }, 
+    {
+      "title": "Undergraduate Researcher Award",
+      "date": "2015",
+      "awarder": "Thomaideion fund, National Technical University of Athens",
+      "url": "",
+      "summary": " "
+    }
+  ],
+  "funding": [
+    {
+      "name": "EPSRC - International Centre to Centre on Data-driven Global Optimisation",
+      "summary": "Project led by Imperial College London (Department of Chemical Engineering, Department of Computing) in collaboration with RWTH Aachen University",
+      "highlights":"",
+      "startDate": "2022",
+      "endDate": "2026",
+      "url": ""
+    },
+    {
+      "name": "Hydrogen Infrastructure Uncertainty Management For Heat Decarbonisation",
+      "summary": "Project led UCL (Department of Chemical Engineering) in collaboration with Cambridge Judge Business School",
+      "highlights":"",
+      "startDate": "2021",
+      "endDate": "2026",
+      "url": ""
+    },
+    {
+      "name": "Artificial Intelligence powered framework for OnLine production Scheduling",
+      "summary": "Project led University of Manchester (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2022",
+      "endDate": "2026",
+      "url": ""
+    },
+    {
+      "name": "Right First Time Manufacture of Pharmaceuticals",
+      "summary": "Project led University of Sheffield (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2021",
+      "endDate": "2025",
+      "url": ""
+    },
+    {
+      "name": "MedIcal Oxygen Supply ChaiN DeSIGn And Planning",
+      "summary": "Project led UCL (Department of Chemical Engineering)",
+      "highlights":"",
+      "startDate": "2020",
+      "endDate": "2021",
+      "url": ""
+    },
+    {
+      "name": "Cambridge University Early Career Fellowship, Isaac Newton Trust",
+      "summary": "Individual research fellowship on data-driven optimisation under uncertainty (declined)",
+      "highlights":"",
+      "startDate": "2019",
+      "endDate": "2019",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Greek",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "affiliations": [
+    {
+      "name": "Higher Academy of Education",
+      "summary": "Fellow",
+      "startDate": "2022",
+      "endDate": "-",
+      "url": " "
+    }, 
+    {
+      "name": "Instite of Chemical Engineers (IChemE)",
+      "summary": "Member & Committee member of the Computer Aided Process Enngineering Special Interest Group (CAPE SIG)",
+      "startDate": "2021",
+      "endDate": "-",
+      "url": " "
+    },
+    {
+      "name": "American of Chemical Engineers",
+      "summary": "Senior member",
+      "startDate": "2018",
+      "endDate": "-",
+      "url": " "
+    }
+  ]
+}

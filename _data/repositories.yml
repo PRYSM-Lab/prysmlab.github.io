@@ -1,0 +1,10 @@
+github_users:
+  - PRYSM-Lab
+
+repo_description_lines_max: 3
+
+github_repos:
+  - PRYSM-Lab/PharmaDMDc
+  - PRYSM-Lab/DataDrivenRobustEnergy
+  - PRYSM-Lab/DataDrivenScenGen
+ 
