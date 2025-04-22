@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Partnerships
+description: Industrial & Academic partnerships.
+nav: true
 nav_order: 6
+horizontal: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Our methods and tools are inspired by contemporary needs for the process and energy industries. 
 
-Organize your courses by years, topics, or universities, however you like!
+Below some of our ongoing partnerships with different academic and industrial collaborators.
+
+<div class="gallery-grid">
+  {% for image in site.data.gallery %}
+    <img src="/assets/img/gallery/{{ image.pic }}" alt="Gallery Image">
+  {% endfor %}
+</div>

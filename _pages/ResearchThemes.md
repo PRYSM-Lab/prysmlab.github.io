@@ -1,17 +1,20 @@
 ---
 layout: page
 permalink: /researchareas/
-title: Research Themes
+title: Research
 nav: true
 nav_order: 1
 dropdown: true
 children:
-  - title: Optimization under uncertainty
-    permalink: /PhDstudents/
+  - title: Net-zero energy & chemicals
+    permalink: /about_NZ/
   - title: divider
-  - title: Net zero energy
-    permalink: /PostDocs/
+  - title: Enterprise wide optimization
+    permalink: /about_EWO/
   - title: divider
-  - title: Data driven optimization 
-    permalink: /Alumni/
+  - title: Optimization under uncertainty 
+    permalink: /about_OUU/
+  - title: divider
+  - title: (Explicit) Model Predictive Control
+    permalink: /about_eMPC/
 ---
