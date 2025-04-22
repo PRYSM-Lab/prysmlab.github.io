@@ -1,10 +1,10 @@
 # Giuseppe Scelfo 
 
-* Joined in September 2024
+September 2024 - March 2025
 
-* PhD student, University of Palermo (Italy)
+* Visiting PhD student, University of Palermo (Italy)
 
 * **Research focus**: Process integration for water treatment and seawater desalination 
 
-* Visiting PhD student 
+
 
