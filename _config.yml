@@ -1,6 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+remote_theme: alshedivat/al-folio
+plugins:
+  - jekyll-remote-theme
 
 title: PRYSM Lab # the website title (if blank, full name will be used instead)
 first_name: 
