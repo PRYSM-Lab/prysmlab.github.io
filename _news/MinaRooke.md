@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles:PRYSM's PhD student Mina Marousi receives the UCL Rooke Award for Best MPhil Thesis 2024. Congratulations Mina! 
+:sparkles:PRYSM's PhD student Mina Marousi receives the UCL Rooke Award for Best MPhil Thesis 2024. Congratulations Mina!

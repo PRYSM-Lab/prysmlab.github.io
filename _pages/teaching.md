@@ -8,7 +8,7 @@ nav_order: 6
 horizontal: true
 ---
 
-Our methods and tools are inspired by contemporary needs for the process and energy industries. 
+Our methods and tools are inspired by contemporary needs for the process and energy industries.
 
 Below some of our ongoing partnerships with different academic and industrial collaborators.
 

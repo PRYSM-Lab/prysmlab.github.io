@@ -12,7 +12,7 @@ profiles:
     content: about_Xu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-                    
+
   - align: right
     image: Shunee.jpeg
     content: about_Shunee.md

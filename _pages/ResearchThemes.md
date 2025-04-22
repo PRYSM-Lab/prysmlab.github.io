@@ -12,7 +12,7 @@ children:
   - title: Enterprise wide optimization
     permalink: /about_EWO/
   - title: divider
-  - title: Optimization under uncertainty 
+  - title: Optimization under uncertainty
     permalink: /about_OUU/
   - title: divider
   - title: (Explicit) Model Predictive Control

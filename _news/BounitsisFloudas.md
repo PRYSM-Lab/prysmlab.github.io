@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles:George Bounitsis wins the prestigious Junior CA Floudas Award for Mathematical Optimization during ESCAPE-33! Congrats George! 
+:sparkles:George Bounitsis wins the prestigious Junior CA Floudas Award for Mathematical Optimization during ESCAPE-33! Congrats George!

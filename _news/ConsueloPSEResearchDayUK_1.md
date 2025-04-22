@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Congratulations to Consuelo for receiving the 2nd prize for best oral presentation during the PSEResearchDayUK2024 conference! 
+:sparkles: Congratulations to Consuelo for receiving the 2nd prize for best oral presentation during the PSEResearchDayUK2024 conference!

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Open access codes
-description: Read one of our papers and you want to understand better the computational aspects? Check out our GitHub repositories for open access codes. 
+description: Read one of our papers and you want to understand better the computational aspects? Check out our GitHub repositories for open access codes.
 nav: true
 nav_order: 5
 ---

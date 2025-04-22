@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: Congratulations to Dr George Bounitsis for successfully defending his PhD thesis! 
+:mortar_board: Congratulations to Dr George Bounitsis for successfully defending his PhD thesis!

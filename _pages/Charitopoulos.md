@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Principal Investigator
-description: 
+description:
 nav: true
 nav_order: 2
 

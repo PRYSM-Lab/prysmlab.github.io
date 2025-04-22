@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles:Consuelo wins the UCL Rooke Prize for the Best MPhil thesis 2024-25! Congrats Consuelo! 
+:sparkles:Consuelo wins the UCL Rooke Prize for the Best MPhil thesis 2024-25! Congrats Consuelo!

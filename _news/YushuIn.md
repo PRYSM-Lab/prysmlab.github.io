@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:classical_building: Ms Yushu Wang is starting as a visiting PhD student in our group from the East China University of Science & Technology. Welcome Yushu!  
+:classical_building: Ms Yushu Wang is starting as a visiting PhD student in our group from the East China University of Science & Technology. Welcome Yushu!

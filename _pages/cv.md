@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Vassilis Charitopoulos - CV 
+title: Vassilis Charitopoulos - CV
 nav: false
 nav_order: 5
 cv_pdf: Charitopoulos_CV.pdf

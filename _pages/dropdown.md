@@ -11,6 +11,6 @@ children:
   - title: Postdoctoral Fellows
     permalink: /PostDocs/
   - title: divider
-  - title: Group Alumni 
+  - title: Group Alumni
     permalink: /Alumni/
 ---
